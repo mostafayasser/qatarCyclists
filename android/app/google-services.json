@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "994547183269",
+    "firebase_url": "https://qatarcyclists-408b5.firebaseio.com",
+    "project_id": "qatarcyclists-408b5",
+    "storage_bucket": "qatarcyclists-408b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994547183269:android:df5ccc8eb088647b6a674c",
+        "android_client_info": {
+          "package_name": "apps.android.QatarCyclists"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994547183269-i068b1i2rha097dbvb22s4v9944l6a50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1cfgpnZeZ8f4nnQ_5wsQCYtdAVZNCcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994547183269-i068b1i2rha097dbvb22s4v9944l6a50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994547183269-eitfdhh89cfaeob7424odkknq658lc1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webzone.qatarcyclistscenter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994547183269:android:ff16842a2d5f7e996a674c",
+        "android_client_info": {
+          "package_name": "com.webzone.qatarcyclists.qatarcyclists"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994547183269-i068b1i2rha097dbvb22s4v9944l6a50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1cfgpnZeZ8f4nnQ_5wsQCYtdAVZNCcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994547183269-i068b1i2rha097dbvb22s4v9944l6a50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994547183269-eitfdhh89cfaeob7424odkknq658lc1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webzone.qatarcyclistscenter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994547183269:android:b660d03162b6e7926a674c",
+        "android_client_info": {
+          "package_name": "com.webzone.qatarcyclistscenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994547183269-i068b1i2rha097dbvb22s4v9944l6a50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1cfgpnZeZ8f4nnQ_5wsQCYtdAVZNCcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994547183269-i068b1i2rha097dbvb22s4v9944l6a50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994547183269-eitfdhh89cfaeob7424odkknq658lc1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webzone.qatarcyclistscenter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
